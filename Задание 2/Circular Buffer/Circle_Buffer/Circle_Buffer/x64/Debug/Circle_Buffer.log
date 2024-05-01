@@ -1,0 +1,4 @@
+﻿  Circle_Buffer.cpp
+C:\Users\Максим\Desktop\Circular Buffer\Circle_Buffer\Circle_Buffer\Circle_Buffer.cpp(47,24): warning C4311: приведение типов: усечение указателя из "double (__cdecl *)(const char *)" в "int"
+C:\Users\Максим\Desktop\Circular Buffer\Circle_Buffer\Circle_Buffer\Circle_Buffer.cpp(47,24): warning C4302: приведение типов: усечение из "double (__cdecl *)(const char *)" к "int"
+  Circle_Buffer.vcxproj -> C:\Users\Максим\Desktop\Circular Buffer\Circle_Buffer\x64\Debug\Circle_Buffer.exe
